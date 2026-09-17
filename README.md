@@ -1,6 +1,6 @@
 # Simulasi Sistem Kendali Adaptif Fuzzy-PID pada Ketinggian Quadcopter
 
-Projek ini dikembangkan sebagai bagian dari penelitian skripsi untuk mengatasi kelemahan PID konvensional yang kurang adaptif terhadap perubahan kondisi sistem dan gangguan eksternal.
+Projek ini dikembangkan sebagai bagian dari penelitian skripsi.
 
 ---
 
