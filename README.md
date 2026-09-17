@@ -21,7 +21,7 @@ Sistem fuzzy merancang penyesuaian parameter PID ($K_p$, $K_i$, $K_d$) secara ot
 
 ---
 
-## 🚀 Cara Menjalankan Simulasi
+## Cara Menjalankan Simulasi
 1. Buka file `Kendali Adaptif dengan Fuzzy_PID.py`.
 2. *Copy* kodenya, lalu *paste* ke editor Python (VS Code / PyCharm / Jupyter).
 3. Pastikan sudah install library `numpy`, `matplotlib`, dan `scikit-fuzzy`.
